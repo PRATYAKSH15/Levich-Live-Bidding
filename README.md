@@ -512,8 +512,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/PRATYAKSH15)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/pratyaksh-989922256/)
+- GitHub: [PRATYAKSH15](https://github.com/PRATYAKSH15)
+- LinkedIn: [Pratyaksh](https://www.linkedin.com/in/pratyaksh-989922256/)
 
 ---
 
