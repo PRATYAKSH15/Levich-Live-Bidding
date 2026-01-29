@@ -10,8 +10,8 @@ A real-time auction platform where users compete to buy items in the final secon
 
 ## 🌐 Live Demo
 
-- **Frontend:** [https://live-bidding-platform.vercel.app](https://live-bidding-platform.vercel.app)
-- **Backend API:** [https://live-bidding-backend.onrender.com](https://live-bidding-backend.onrender.com)
+- **Frontend:** [levich-live-bidding-virid.vercel.app](levich-live-bidding-virid.vercel.app)
+- **Backend API:** [https://levich-live-bidding.onrender.com](https://levich-live-bidding.onrender.com)
 
 ## ✨ Features
 
