@@ -56,24 +56,6 @@ const sampleItems = [
     currentBid: 3000,
     bidIncrement: 75,
     auctionEndTime: new Date(Date.now() + 4 * 60 * 60 * 1000)
-  },
-  {
-    title: 'Canon EOS R5 Camera Kit',
-    description: 'Professional mirrorless camera with 24-70mm f/2.8 lens, 45MP full-frame sensor',
-    imageUrl: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400',
-    startingPrice: 3500,
-    currentBid: 3500,
-    bidIncrement: 100,
-    auctionEndTime: addDays(12)
-  },
-  {
-    title: 'Tesla Model S Die-Cast Collection',
-    description: 'Limited edition 1:18 scale Tesla Model S Plaid collection, signed by Elon Musk',
-    imageUrl: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=400',
-    startingPrice: 1500,
-    currentBid: 1500,
-    bidIncrement: 50,
-    auctionEndTime: addDays(18)
   }
 ];
 
