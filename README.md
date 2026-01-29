@@ -24,11 +24,20 @@ A real-time auction platform where users compete to buy items in the final secon
 
 ## 🖼️ Screenshots
 
-### Auction Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Auction+Dashboard)
+### Auction Dashboard - User1 Pratyaksh
+![Dashboard](Dash.png)
 
-### Real-time Bidding
-![Bidding](https://via.placeholder.com/800x400?text=Real-time+Bidding)
+### Real-time Bidding: Bid
+![Bidding](Bid.png)
+
+### Real-time Bidding: Outbid
+![Bidding](Outbid.png)
+
+### Auction Dashboard
+![Dashboard](Dash.png)
+
+### Auction Dashboard - User2 Veeransh
+![Bidding](Outbid.png)
 
 ## 🛠️ Tech Stack
 
