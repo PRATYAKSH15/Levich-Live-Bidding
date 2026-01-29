@@ -7,6 +7,7 @@ import connectDB from './config/db.js';
 import itemRoutes from './routes/itemRoutes.js';
 import errorHandler from './middleware/errorHandler.js';
 import initializeSocket from './socket/socketHandler.js';
+import autoSeed from './services/seedService.js';
 
 const app = express();
 const server = createServer(app);
@@ -58,6 +59,10 @@ const PORT = process.env.PORT || 5000;
 const start = async () => {
   try {
     await connectDB();
+    
+    // ✅ Auto-seed if no active auctions
+    await autoSeed();
+    
     server.listen(PORT, () => {
       console.log(`
 🚀 Server running on port ${PORT}
